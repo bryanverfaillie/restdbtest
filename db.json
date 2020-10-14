@@ -3,10 +3,10 @@
     {
       "id": 1,
       "item": {
-        "Name": 'Bonnenkoker',
-        "Brand": 'Own Production,
-        "Description": 'koker voor de bonnentjes te verzamelen in de bar',
-        "Category": 'Barwerking',
+        "Name": "Bonnenkoker",
+        "Brand": "Own Production",
+        "Description": "koker voor de bonnentjes te verzamelen in de bar",
+        "Category": "Barwerking",
         "MainTeam": "F&B",
         "AveragePrice": 10
       },
