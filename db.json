@@ -1,59 +1,58 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "item": {
-        "Name": "Bonnenkoker",
-        "Brand": "Own Production",
-        "Description": "koker voor de bonnentjes te verzamelen in de bar",
-        "Category": "Barwerking",
-        "MainTeam": "F&B",
-        "AveragePrice": 10
-      },
-      "Amount": 30,
-      "LastChecked": "30-10-2020"
-    },
-    {
-      "id": 2,
-      "item": {
-        "Name": "Scaff Heras",
-        "Brand": "StageFreaks",
-        "Description": "Scaff sleutel 19-21 voor herassen en scaff-klemmen",
-        "Category": "werktuig",
-        "MainTeam": "Site&Safety",
-        "AveragePrice": 20
-      },
-      "Amount": 2,
-      "LastChecked": "30-10-2020"
-    },
-    {
-      "id": 3,
-      "item": {
-        "Name": "Koekjes",
-        "Brand": "Aldi,
-        "Description": "koekjes",
-        "Category": "EHBO",
-        "MainTeam": "HR",
-        "AveragePrice": 1
-      },
-      "Amount": 10,
-      "LastChecked": "30-10-2020"
-    },
-    {
-      "id": 4,
-      "item": {
-        "Name": "Koevoet",
-        "Brand": "-",
-        "Description": "om te forceren",
-        "Category": "werktuig",
-        "MainTeam": "Site&Safety",
-        "AveragePrice": 
-      },
-      "Amount": 1,
-      "LastChecked": "30-10-2020"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"posts": [{
+			"id": 1,
+			"item": {
+				"Name": "Bonnenkoker",
+				"Brand": "Own Production",
+				"Description": "koker voor de bonnentjes te verzamelen in de bar",
+				"Category": "Barwerking",
+				"MainTeam": "F&B",
+				"AveragePrice": 10
+			},
+			"Amount": 30,
+			"LastChecked": "30-10-2020"
+		},
+		{
+			"id": 2,
+			"item": {
+				"Name": "Scaff Heras",
+				"Brand": "StageFreaks",
+				"Description": "Scaff sleutel 19-21 voor herassen en scaff-klemmen",
+				"Category": "werktuig",
+				"MainTeam": "Site&Safety",
+				"AveragePrice": 20
+			},
+			"Amount": 2,
+			"LastChecked": "30-10-2020"
+		},
+		{
+			"id": 3,
+			"item": {
+				"Name": "Koekjes",
+				"Brand": "Aldi",
+				"Description": "koekjes",
+				"Category": "EHBO",
+				"MainTeam": "HR",
+				"AveragePrice": 1
+			},
+			"Amount": 10,
+			"LastChecked": "30-10-2020"
+		},
+		{
+			"id": 4,
+			"item": {
+				"Name": "Koevoet",
+				"Brand": "-",
+				"Description": "om te forceren",
+				"Category": "werktuig",
+				"MainTeam": "Site&Safety",
+				"AveragePrice": 35
+			},
+			"Amount": 1,
+			"LastChecked": "30-10-2020"
+		}
+	],
+	"profile": {
+		"name": "typicode"
+	}
 }
